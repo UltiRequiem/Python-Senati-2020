@@ -4,9 +4,9 @@ Mis ejercicios en [Senati](https://www.senati.edu.pe) del curso de IA con Python
 ![Senati Logo](https://logosave.com/images/large/common/02/senati-vector-logo-download-free.png)
 
 ## Indice:
-- [00 Variables y Constantes](./00_constante_variables.py).....[✔️Ver la ejecución]()
-- [01 Hello World](./01_hellow_world.py).....[✔️Ver la ejecución]()
-- [01 Hola Mundo](./01_hola-mundo.py).....[✔️Ver la ejecución]()
+- [00 Variables y Constantes](./00_constante_variables.py).....[✔️Ver la ejecución](https://youtu.be/-fEj1b1mF3o)
+- [01 Hello World](./01_hellow_world.py).....[✔️Ver la ejecución](https://youtu.be/WmkR96AoOGw)
+- [01 Hola Mundo](./01_hola-mundo.py).....[✔️Ver la ejecución](https://youtu.be/pc5X8sxF5AI)
 - [02 Listas y Diccionarios](./02_list_dicts.py ).....[✔️Ver la ejecución]()
 - [03 Inputs](./03_personal-info.py ).....[✔️Ver la ejecución]()
 - [04 If](./04_if-notas.py ).....[✔️Ver la ejecución]()
