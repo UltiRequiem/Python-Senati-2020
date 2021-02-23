@@ -19,4 +19,5 @@ Mis ejercicios en [Senati](https://www.senati.edu.pe) del curso de IA con Python
 - [11 Api Functions](./11_my_apic_em_functions.py)
 - [12 Print Devices](./12_print_devices.py)
 - [12 Print Host](./13_print_hosts.py)
+
 [Lista de Reproducción con todos los videos](https://youtube.com/playlist?list=PLsvkbx-s0U01cpvG2DP4GHTZ4eQaMfAvW)
